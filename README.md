@@ -1,0 +1,1 @@
+# Regularizing-Deep-Neural-Networks-with-Stochastic-Estimators-of-Hessian-Trace
